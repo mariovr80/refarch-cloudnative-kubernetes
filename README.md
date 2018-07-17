@@ -185,7 +185,7 @@ The command will give you an output similar to the above. Pick the Public IP of 
 In your browser navigate to **`http://<IP>:31337`**.
 
 To validate the application itself, feel free to use the instructions [here](#validate-the-application).
-
+ 
 ### Deploy BlueCompute to IBM Cloud Private
 IBM Cloud Private contains integration with Helm that allows you to install the application and all of its components in a few steps. This can be done as an administrator using the following steps:
 1. Click on the user icon on the top right corner and then click on `Configure client`.
